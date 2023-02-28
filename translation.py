@@ -1,7 +1,6 @@
 class Translation(object):
-    START_TEXT = """Hi bewafa {} 😂,
-Myself 𝐀𝐧𝐠𝐞𝐥 𝐏𝐫𝐢𝐲𝐚 and I'm not Bewafa 
-
+    START_TEXT = """Hi {} 😂,
+Myself URL to File Bot,
 Just send me urls. You can send HTTP/HTTPS direct links. I will check and start uploading !
 
 【 use cmd /help for more details! 】"""
@@ -37,9 +36,9 @@ Contact ADMIN if any error occurs @LazyDeveloperr"""
     LAZY_START_TEXT = """𝙷𝚎𝚕𝚕𝚘 𝗕𝗲𝘄𝗮𝗳𝗮 {},
 
 𝗬𝗼𝘂 𝗺𝘂𝘀𝘁 𝗯𝗲 𝗮𝗻 𝗔𝘂𝘁𝗵𝗲𝗻𝘁𝗶𝗰 𝗨𝘀𝗲𝗿 𝘁𝗼 𝘂𝘀𝗲 𝗺𝗲.
-The 𝐋𝐚𝐳𝐲𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫𝐫 has not allowed me to upload files from the urls which is send by an unAuthorised member.
+The ADMIN has not allowed me to upload files from the urls which is send by an unAuthorised member.
 
-Please contact my Developer to be an authorised user ! 
+Please contact my ADMIN to be an authorised user ! 
 """
     LAZY_DEVELOPER_TEXT = """▍║▍▏║ Hello Dear ADMIN ║▍▏║▍
 ⭑┗┫⦀⦙ {} ⦙⦀┣┛⭑
