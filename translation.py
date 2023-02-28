@@ -27,7 +27,7 @@ URL | filename | username | password"""
    Video  - Give File as video without Screenshots
    File   - Give File without Screenshots
 
-Contact ADMIN if any error occurs @LazyDeveloperr"""
+Contact ADMIN if any error occurs @Steve_4"""
     REPLY_TO_MEDIA_ALBUM_TO_GEN_THUMB = "Reply /genthumbnail to a media album, to generate custom thumbnail"
     ERR_ONLY_TWO_MEDIA_IN_ALBUM = "Media Album should contain only two photos. Please re-send the media album, and then try again, or send only two photos in an album."
     CANCEL_STR = "Process Cancelled"
@@ -36,9 +36,9 @@ Contact ADMIN if any error occurs @LazyDeveloperr"""
     LAZY_START_TEXT = """𝙷𝚎𝚕𝚕𝚘 𝗕𝗲𝘄𝗮𝗳𝗮 {},
 
 𝗬𝗼𝘂 𝗺𝘂𝘀𝘁 𝗯𝗲 𝗮𝗻 𝗔𝘂𝘁𝗵𝗲𝗻𝘁𝗶𝗰 𝗨𝘀𝗲𝗿 𝘁𝗼 𝘂𝘀𝗲 𝗺𝗲.
-The ADMIN has not allowed me to upload files from the urls which is send by an unAuthorised member.
+The OWNER has not allowed me to upload files from the urls which is send by an unAuthorised member.
 
-Please contact my ADMIN to be an authorised user ! 
+Please contact my OWNER to be an authorised user ! 
 """
     LAZY_DEVELOPER_TEXT = """▍║▍▏║ Hello Dear ADMIN ║▍▏║▍
 ⭑┗┫⦀⦙ {} ⦙⦀┣┛⭑
