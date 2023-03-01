@@ -21,7 +21,7 @@
 
 * `TG_BOT_TOKEN`  - Create a New BOT to Get bot token. follow link  https://telegram.me/BotFather
 
-* `API_ID` - From my.telegram.org 
+* `APP_ID` - From my.telegram.org 
 
 * `API_HASH` - From my.telegram.org 
 
